@@ -40,7 +40,7 @@ const pageTempl = `
 		<p>Date: {{.StringDate}}</p>
 		<p>
 		{{range .Tags}}
-		  <a href="/tag/{{.}}.html">{{.}}</a>
+		  <a href="tag/{{.}}.html">{{.}}</a>
 		{{end}}
 		</p>
 	</body>
@@ -56,7 +56,7 @@ const tagTempl = `
 <h1>Tag: {{.Tag}}</h1>
 	{{range .Articles}}
 		<p>
-			<a href="/{{.Index}}.html">{{.Header}}</a>
+			<a href="{{.Index}}.html">{{.Header}}</a>
 		</p>
 	{{end}}
 </body>
@@ -87,7 +87,7 @@ func prepareForRender(articles []Article) []renderArticle {
 	for _, v := range articles {
 		r := renderArticle{
 			Header: v.Header,
-			Link:   fmt.Sprintf("/%d.html", v.Index),
+			Link:   fmt.Sprintf("%d.html", v.Index),
 		}
 		res = append(res, r)
 	}
