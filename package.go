@@ -56,7 +56,7 @@ const tagTempl = `
 <h1>Tag: {{.Tag}}</h1>
 	{{range .Articles}}
 		<p>
-			<a href="{{.Index}}.html">{{.Header}}</a>
+			<a href="/{{.Index}}.html">{{.Header}}</a>
 		</p>
 	{{end}}
 </body>
