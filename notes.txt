@@ -64,3 +64,23 @@ There is probably an underlying problem of smaller stores not being able to
 compete and hence cities need to have laws against chain stores.
 
 https://www.theguardian.com/cities/2017/apr/20/fight-independents-should-cities-ban-chain-stores-toronto
+
+# California is trying to be the leader in climate policy
+Tags: climate, california
+Date: 2017/05/06
+
+California is trying to set an example by adopting really agressive cap and 
+trade goals. If this legislation SB755 passes it will create a free market for 
+carbon trading and abolish carbon offsets.
+
+There are a few interesting things about this legislation one being a Border
+adjustment tax to be levied on imports from other states where carbon emission
+tax / cost is cheaper. If this is executed well, this might lead other states
+to adopt similar strickter measueres. The downside is a lot of industry can
+move out of california to places where producing carbon is cheaper.
+
+The legislation has a huge potential of producing lots of income for the state.
+This income is being allocated to per-capita dividends, it is a nice effort
+at redistribution as most of the money will go to the poorer people. 
+
+https://www.vox.com/energy-and-environment/2017/5/3/15512258/california-revolutionize-cap-and-trade
